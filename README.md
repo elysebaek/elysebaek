@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elysebaek&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elysebaek&show_icons=true&theme=radical)
 ![Image](https://github.com/user-attachments/assets/06ab29c3-a120-4acd-8ff3-0529bd566338)
-![js]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white))
