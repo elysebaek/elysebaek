@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/elysebaek/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elysebaek&show_icons=true&theme=radical)
-oading "57581be7e8ca9bb79705f7fe967a0fc7.gif"... -->
